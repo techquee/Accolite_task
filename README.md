@@ -15,7 +15,7 @@ jQuery Wizard example with questions
 ## Submit button abled on last question
 ![Image](https://raw.githubusercontent.com/techquee/Accolite_task/master/images/image%20(1).png)
 
-## After submission model
+## After submission model showing attempted, non-attempted and marked question
 ![Image](https://raw.githubusercontent.com/techquee/Accolite_task/master/images/image%20(2).png)
 
 ## State saved with mark and unmark functionality
