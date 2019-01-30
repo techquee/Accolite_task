@@ -9,14 +9,14 @@ jQuery Wizard example with questions
   
 
   
-##
-![Image](https://raw.githubusercontent.com/techquee/Accolite_task/master/images/image%20.png)
+## Back Button disabled on 1st question 
+![Image](https://raw.githubusercontent.com/techquee/Accolite_task/master/images/image.png)
 
-##
+## Submit button abled on last question
 ![Image](https://raw.githubusercontent.com/techquee/Accolite_task/master/images/image%20(1).png)
 
-##
+## After submission model
 ![Image](https://raw.githubusercontent.com/techquee/Accolite_task/master/images/image%20(2).png)
 
-##
+## State saved with mark and unmark functionality
 ![Image](https://raw.githubusercontent.com/techquee/Accolite_task/master/images/image%20(3).png)
